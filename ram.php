@@ -1,6 +1,6 @@
 
 <?php
 
-print("welcome to php")
+print("welcome to php web")
 
 ?>
