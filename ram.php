@@ -1,7 +1,7 @@
 <pre>
 <?php
 
-print("welcome to php web")
+print("welcome to php web");
 
 print("\n");
 
